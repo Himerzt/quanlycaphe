@@ -1,0 +1,55 @@
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\BUS\obj\Debug\BUS.pdb
+D:\Quản lý coffe\BUS\bin\Debug\BUS.dll
+D:\Quản lý coffe\BUS\bin\Debug\BUS.pdb
+D:\Quản lý coffe\BUS\bin\Debug\DAL.dll
+D:\Quản lý coffe\BUS\bin\Debug\DTO.dll
+D:\Quản lý coffe\BUS\bin\Debug\DAL.pdb
+D:\Quản lý coffe\BUS\bin\Debug\DTO.pdb
+D:\Quản lý coffe\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Quản lý coffe\BUS\obj\Debug\BUS.dll
+D:\Quản lý coffe\BUS\obj\Debug\BUS.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\bin\Debug\BUS.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\bin\Debug\BUS.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\bin\Debug\DAL.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\bin\Debug\DTO.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\bin\Debug\DAL.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\bin\Debug\DTO.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\obj\Debug\BUS.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\BUS\obj\Debug\BUS.pdb
+D:\Downloads\Quản lý coffe\BUS\bin\Debug\BUS.dll
+D:\Downloads\Quản lý coffe\BUS\bin\Debug\BUS.pdb
+D:\Downloads\Quản lý coffe\BUS\bin\Debug\DAL.dll
+D:\Downloads\Quản lý coffe\BUS\bin\Debug\DTO.dll
+D:\Downloads\Quản lý coffe\BUS\bin\Debug\DAL.pdb
+D:\Downloads\Quản lý coffe\BUS\bin\Debug\DTO.pdb
+D:\Downloads\Quản lý coffe\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Downloads\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Downloads\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Downloads\Quản lý coffe\BUS\obj\Debug\BUS.dll
+D:\Downloads\Quản lý coffe\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\BUS\obj\Debug\BUS.pdb

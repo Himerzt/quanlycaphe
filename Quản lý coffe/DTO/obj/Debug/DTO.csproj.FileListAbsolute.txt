@@ -1,0 +1,30 @@
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DTO\bin\Debug\DTO.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DTO\bin\Debug\DTO.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DTO\obj\Debug\DTO.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DTO\obj\Debug\DTO.pdb
+D:\Quản lý coffe\DTO\bin\Debug\DTO.dll
+D:\Quản lý coffe\DTO\bin\Debug\DTO.pdb
+D:\Quản lý coffe\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Quản lý coffe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Quản lý coffe\DTO\obj\Debug\DTO.dll
+D:\Quản lý coffe\DTO\obj\Debug\DTO.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DTO\bin\Debug\DTO.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DTO\bin\Debug\DTO.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DTO\obj\Debug\DTO.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DTO\obj\Debug\DTO.pdb
+D:\Downloads\Quản lý coffe\DTO\bin\Debug\DTO.dll
+D:\Downloads\Quản lý coffe\DTO\bin\Debug\DTO.pdb
+D:\Downloads\Quản lý coffe\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Downloads\Quản lý coffe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Downloads\Quản lý coffe\DTO\obj\Debug\DTO.dll
+D:\Downloads\Quản lý coffe\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DTO\obj\Debug\DTO.pdb

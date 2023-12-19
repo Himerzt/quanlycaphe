@@ -1,0 +1,105 @@
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe.config
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.Properties.Resources.resources
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.exe
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CopyComplete
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAdmin.resources
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fTableManager.resources
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAccountProfile.resources
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fLogin.resources
+D:\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe.config
+D:\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe
+D:\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.pdb
+D:\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.dll
+D:\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.dll
+D:\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.dll
+D:\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.pdb
+D:\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.pdb
+D:\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.pdb
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.AssemblyReference.cache
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.SuggestedBindingRedirects.cache
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAccountProfile.resources
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAdmin.resources
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fLogin.resources
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fTableManager.resources
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.Properties.Resources.resources
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.GenerateResource.cache
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CoreCompileInputs.cache
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CopyComplete
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.exe
+D:\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe.config
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAccountProfile.resources
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAdmin.resources
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fLogin.resources
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fTableManager.resources
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CopyComplete
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.exe
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.pdb
+D:\Downloads\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe.config
+D:\Downloads\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe
+D:\Downloads\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.pdb
+D:\Downloads\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.dll
+D:\Downloads\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.dll
+D:\Downloads\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.dll
+D:\Downloads\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.pdb
+D:\Downloads\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.pdb
+D:\Downloads\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.pdb
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.AssemblyReference.cache
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAccountProfile.resources
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAdmin.resources
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fLogin.resources
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fTableManager.resources
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.Properties.Resources.resources
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.GenerateResource.cache
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CoreCompileInputs.cache
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CopyComplete
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.exe
+D:\Downloads\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe.config
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.exe
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\bin\Debug\Quản lý coffe.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\bin\Debug\BUS.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAccountProfile.resources
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fAdmin.resources
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fLogin.resources
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.fTableManager.resources
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản_lý_coffe.Properties.Resources.resources
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.csproj.CopyComplete
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.exe
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\Quản lý coffe\obj\Debug\Quản lý coffe.pdb

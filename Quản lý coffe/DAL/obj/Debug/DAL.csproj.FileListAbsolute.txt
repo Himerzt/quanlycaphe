@@ -1,0 +1,45 @@
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\source\repos\Phát triển desktop\Quản lý coffe\DAL\obj\Debug\DAL.pdb
+D:\Quản lý coffe\DAL\bin\Debug\DAL.dll
+D:\Quản lý coffe\DAL\bin\Debug\DAL.pdb
+D:\Quản lý coffe\DAL\bin\Debug\DTO.dll
+D:\Quản lý coffe\DAL\bin\Debug\DTO.pdb
+D:\Quản lý coffe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Quản lý coffe\DAL\obj\Debug\DAL.dll
+D:\Quản lý coffe\DAL\obj\Debug\DAL.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DAL\bin\Debug\DAL.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DAL\bin\Debug\DAL.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DAL\bin\Debug\DTO.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DAL\bin\Debug\DTO.pdb
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DAL\obj\Debug\DAL.dll
+C:\Users\HP\OneDrive\Máy tính\Quản lý coffe\DAL\obj\Debug\DAL.pdb
+D:\Downloads\Quản lý coffe\DAL\bin\Debug\DAL.dll
+D:\Downloads\Quản lý coffe\DAL\bin\Debug\DAL.pdb
+D:\Downloads\Quản lý coffe\DAL\bin\Debug\DTO.dll
+D:\Downloads\Quản lý coffe\DAL\bin\Debug\DTO.pdb
+D:\Downloads\Quản lý coffe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Downloads\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Downloads\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Downloads\Quản lý coffe\DAL\obj\Debug\DAL.dll
+D:\Downloads\Quản lý coffe\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Documents\ĐHUEH\Các Môn Học HK5-ĐH\Desk\Quản lý coffe\DAL\obj\Debug\DAL.pdb
